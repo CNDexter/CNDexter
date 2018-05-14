@@ -1,0 +1,164 @@
+[
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "contact.html",
+        "sha": "9d4db8ba24757f6ce8557859822bc1ebf79997ce"
+      }
+    ],
+    "outputSha": "163fdf7f41e9ab13aea969b4331cd0cafb6cd1f4",
+    "input": "contact.html",
+    "output": [
+      "contact.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "index.html",
+        "sha": "bc1158fdb30189c6b7595ecd56ee32f6af825174"
+      }
+    ],
+    "outputSha": "85fec7e26160422faa0220557632e26afc0b9069",
+    "input": "index.html",
+    "output": [
+      "index.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "portfolio.html",
+        "sha": "d6920a36332d4b540f9da8d5eed3f09185cd5bb7"
+      }
+    ],
+    "outputSha": "19b79c3c6455376f206f1142f036535f89ea08a2",
+    "input": "portfolio.html",
+    "output": [
+      "portfolio.html"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "styles/_base.scss",
+        "sha": "274f5dfa01f778b76cc2325ddf94aefe0db00c79"
+      }
+    ],
+    "outputSha": "274f5dfa01f778b76cc2325ddf94aefe0db00c79",
+    "input": "styles/_base.scss",
+    "output": [
+      "styles/_base.scss"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "styles/_footer.scss",
+        "sha": "07a515e53c5bfef17687184f0043775f585afed3"
+      }
+    ],
+    "outputSha": "07a515e53c5bfef17687184f0043775f585afed3",
+    "input": "styles/_footer.scss",
+    "output": [
+      "styles/_footer.scss"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "styles/_menu.scss",
+        "sha": "dddba4e78279cffc8e33af6aad95df6c0d975cbc"
+      }
+    ],
+    "outputSha": "dddba4e78279cffc8e33af6aad95df6c0d975cbc",
+    "input": "styles/_menu.scss",
+    "output": [
+      "styles/_menu.scss"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "styles/_mixins.scss",
+        "sha": "80333beef6c0b0d98eaf98351ebf82ab0738dde4"
+      }
+    ],
+    "outputSha": "80333beef6c0b0d98eaf98351ebf82ab0738dde4",
+    "input": "styles/_mixins.scss",
+    "output": [
+      "styles/_mixins.scss"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "styles/_variables.scss",
+        "sha": "730b9424f26fe8cd5a85c3ac5a4efd97a18fa118"
+      }
+    ],
+    "outputSha": "730b9424f26fe8cd5a85c3ac5a4efd97a18fa118",
+    "input": "styles/_variables.scss",
+    "output": [
+      "styles/_variables.scss"
+    ]
+  },
+  {
+    "type": "node-sass@4.7.2::map::minify",
+    "inputSha": [
+      {
+        "file": "styles/styles.scss",
+        "sha": "d38dda265304376b35f6a9e4f723bf1b5d99a016"
+      },
+      {
+        "file": "styles/_base.scss",
+        "sha": "274f5dfa01f778b76cc2325ddf94aefe0db00c79"
+      },
+      {
+        "file": "styles/_menu.scss",
+        "sha": "dddba4e78279cffc8e33af6aad95df6c0d975cbc"
+      },
+      {
+        "file": "styles/_variables.scss",
+        "sha": "730b9424f26fe8cd5a85c3ac5a4efd97a18fa118"
+      },
+      {
+        "file": "styles/_mixins.scss",
+        "sha": "80333beef6c0b0d98eaf98351ebf82ab0738dde4"
+      },
+      {
+        "file": "styles/_footer.scss",
+        "sha": "07a515e53c5bfef17687184f0043775f585afed3"
+      }
+    ],
+    "outputSha": "b064f0a7bd453ecb4e2c53308fc11b1ab5b612c6",
+    "input": "styles/styles.scss",
+    "output": [
+      "styles/styles.css.map",
+      "styles/styles.css"
+    ]
+  },
+  {
+    "type": "::map::minify",
+    "inputSha": [
+      {
+        "file": "font-awesome/css/font-awesome.css",
+        "sha": "0140952c64e3f2b74ef64e050f2fe86eab6624c8"
+      }
+    ],
+    "outputSha": "54410ad8d33cecb7ba74c7ed20e05b6a23a9b9b9",
+    "input": "font-awesome/css/font-awesome.css",
+    "output": [
+      "font-awesome/css/font-awesome.css.map",
+      "font-awesome/css/font-awesome.css"
+    ]
+  }
+]
